@@ -1,12 +1,12 @@
 Usage
 =====
 
-.. _installation:
+.. _install:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use piranha, first install it using pip:
 
 .. code-block:: console
 
